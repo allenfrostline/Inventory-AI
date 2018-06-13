@@ -6,7 +6,7 @@ This is an operations research puzzle but also a game. The game is formulated as
 
 Both human-playing and AI-learning modes are implemented. A nice GUI can be turned on during learning of AI, which will be on by default when you play by yourself. For a system with 5 classes, this is what you'll see:
 
-<img src="ScreenShot1.png" width="10%">
+<img src="ScreenShot1.png" width="20%">
 
 where at the top you can see numbers from 1 to 5, corresponding to button `1` to `5` on your keyboard (so you can actually decide which class to produce in each step), and at the bottom is your current score. Either boundary the red inventory level bar touches, upper or lower, the system is deemed failed. Try play by yourself, or implement a better AI (heuristic, reinforcement learning, whatever)!
 
